@@ -1,0 +1,8 @@
+main: de.robindev.easymcapi.Main
+name: EasyMCAPI
+author: RobinDEV
+version: 1.3
+
+commands:
+  aids:
+  skin:
